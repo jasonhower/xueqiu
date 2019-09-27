@@ -6,4 +6,4 @@
 * 04_get_history_from_wangyi：定期从网易财经上爬取股票历史交易数据
 * 05_MongoDB_to_MySQL：将MongoDB数据导入到MySQL中
 
-![雪球网爬取流程]()
+![雪球网爬取流程](https://github.com/wang1051992187/xueqiu/blob/master/xueqiu.png)
